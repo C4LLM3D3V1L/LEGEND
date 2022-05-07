@@ -63,7 +63,7 @@ class Main:
 		self.loop = 0
 		os.system("clear")
 		print(logo)
-		print(' \033[1;95mDont Decode My Tools \033[0m')
+		print(' \033[1;95mDont Modify My Tools \033[0m')
 		print(' \033[1;95mThis Tool Clone Old Random Account \033[0m')
 		print("")
 		print("%s [%s1%s]%s CRACK RANDOM FB ID 2008-11 %s[Just-Now-Open]"%(P,G,R,Y,B))
